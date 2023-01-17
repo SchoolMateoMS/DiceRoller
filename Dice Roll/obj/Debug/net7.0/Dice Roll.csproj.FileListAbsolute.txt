@@ -1,0 +1,15 @@
+F:\C#projects\Dice Roll\bin\Debug\net7.0\Dice Roll.exe
+F:\C#projects\Dice Roll\bin\Debug\net7.0\Dice Roll.deps.json
+F:\C#projects\Dice Roll\bin\Debug\net7.0\Dice Roll.runtimeconfig.json
+F:\C#projects\Dice Roll\bin\Debug\net7.0\Dice Roll.dll
+F:\C#projects\Dice Roll\bin\Debug\net7.0\Dice Roll.pdb
+F:\C#projects\Dice Roll\obj\Debug\net7.0\Dice Roll.csproj.AssemblyReference.cache
+F:\C#projects\Dice Roll\obj\Debug\net7.0\Dice Roll.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#projects\Dice Roll\obj\Debug\net7.0\Dice Roll.AssemblyInfoInputs.cache
+F:\C#projects\Dice Roll\obj\Debug\net7.0\Dice Roll.AssemblyInfo.cs
+F:\C#projects\Dice Roll\obj\Debug\net7.0\Dice Roll.csproj.CoreCompileInputs.cache
+F:\C#projects\Dice Roll\obj\Debug\net7.0\Dice Roll.dll
+F:\C#projects\Dice Roll\obj\Debug\net7.0\refint\Dice Roll.dll
+F:\C#projects\Dice Roll\obj\Debug\net7.0\Dice Roll.pdb
+F:\C#projects\Dice Roll\obj\Debug\net7.0\Dice Roll.genruntimeconfig.cache
+F:\C#projects\Dice Roll\obj\Debug\net7.0\ref\Dice Roll.dll
